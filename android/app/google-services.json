@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3134195937",
+    "project_id": "lab8-realtime-chat-app",
+    "storage_bucket": "lab8-realtime-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3134195937:android:51d2c78d0358db59bb0fa0",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8hY1SrSjo2cw72fXdXzTkuM5NdmWLAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3134195937:android:ad6ff239f2d12a1fbb0fa0",
+        "android_client_info": {
+          "package_name": "com.example.lab8_realtime_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8hY1SrSjo2cw72fXdXzTkuM5NdmWLAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
